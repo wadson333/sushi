@@ -1,0 +1,19 @@
+{
+  "name": "sushi",
+  "version": "1.0.0",
+  "description": "a website for a sushi restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadson333/sushi.git"
+  },
+  "author": "wadson joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadson333/sushi/issues"
+  },
+  "homepage": "https://github.com/wadson333/sushi#readme"
+}
